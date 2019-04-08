@@ -1,2 +1,7 @@
-# bash_scripts
-Bash scripts for work
+# Скрипты
+
+### autoclean backup
+Bash скрипт для ротации файлов в хранилище.
+
+### SSL
+Решения для автоматического получения сертификатов их MSCA
